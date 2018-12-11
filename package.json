@@ -14,6 +14,7 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
+    "short-id": "0.1.0-1",
     "shortid": "^2.2.12"
   }
 }
